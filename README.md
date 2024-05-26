@@ -1,6 +1,6 @@
 # PAC3: Visionant el futur amb les ulleres de Manovich
 
-### Recurs d'aprenentatge de Cultura Digital 
+### Cultura Digital 
 
 
 Autor: Valentín Garcia Costa
@@ -8,11 +8,11 @@ Autor: Valentín Garcia Costa
 
 Fecha: 26/05/2024
 
-![Cultura Digital](https://valentigarcia.com/uoc/cd/PAC3/VRtourism2.jpg) 
+![VR al turisme](https://valentigarcia.com/uoc/cd/PAC3/VRtourism2.jpg) 
 
 
 
-## Plantejament
+## Introducció.
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
