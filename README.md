@@ -1,39 +1,41 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PAC3: Visionant el futur amb les ulleres de Manovich
 
-### Recurso de aprendizaje de Cultura Digital 
-
-
-Autor: 
+### Recurs d'aprenentatge de Cultura Digital 
 
 
-Fecha: 
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+Autor: Valentín Garcia Costa
 
 
+Fecha: 26/05/2024
 
-## Planteamiento
+![Cultura Digital](https://valentigarcia.com/uoc/cd/PAC3/VRtourism2.jpg) 
+
+
+
+## Plantejament
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Re-descobrint la hibridació: Cas 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descobrint la hibridació: Cas 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-### Referencias y Bibliografía
+### Referències i Bibliografia
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* VRtourism2.jpg (2024). Imatges amb llicència per a Valentí Garcia, Envato Elements. Certificat llicència (https://valentigarcia.com/uoc/cd/PAC3/license_certificate_47BVJ5HNE3.txt)
+* 
 
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Llicència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0. Imatges CC BY [Valentigarcia.com](https://valentigarcia.com/uoc/cd/PAC3) 
