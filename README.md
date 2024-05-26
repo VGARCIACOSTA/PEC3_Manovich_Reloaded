@@ -39,7 +39,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referències i Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* VRtourism2.jpg (2024). Imatges amb llicència per a Valentí Garcia, Envato Elements. Certificat llicència (https://valentigarcia.com/uoc/cd/PAC3/license_certificate_47BVJ5HNE3.txt)
+* VRtourism2.jpg (2024). Imatges amb llicència per a Valentí Garcia, **Envato Elements**. Certificat llicència (https://valentigarcia.com/uoc/cd/PAC3/license_certificate_47BVJ5HNE3.txt)
+* Black Mirror: Bandersnatch (NETFLIX), **Wikipedia**. [consultat: 23/05/2024]. (https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
+* Tarraco360.com **TARRACO 360** (https://www.tarraco360.com/)
 * 
 
 
