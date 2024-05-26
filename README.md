@@ -8,7 +8,7 @@ Autor: Valentín Garcia Costa
 
 Fecha: 26/05/2024
 
-![VR al turisme](https://valentigarcia.com/uoc/cd/PAC3/VRtourism2.jpg) 
+![VR al turisme](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/VRtourism2.jpg)
 
 
 
