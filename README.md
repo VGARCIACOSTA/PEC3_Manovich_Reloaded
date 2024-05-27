@@ -19,7 +19,7 @@ A continuació, he creat un assaig per la PAC3, amb els següents dos casos de R
 
 1.- Turisme i la Tecnologia immersiva (poder visitar virtualment llocs, museus... o experiències de RA als propis llocs turístics).
 
-2.- Cinema interactiu i videojocs (Tenint en ment els llibres "interactius", on el lector creava la seva pròpia narrativa, la història/final del llibre la decidia el lector. En aquest cas, la hibridació serà referent a experiències com la que ofereix Netflix a la sèrie Blackmirror, amb "Bandersnatch", on l'espectador pot interactuar amb el capítol i decidir pel personatge). Podem dir que ens trobem envers una narrativa interactiva, on es barreja el concepte de cinema i el dels videojocs. Ja que a part de Bandersnatch de Netflix, trobem el joc de terror interactiu de PS, Until Dawn, o el Detroit: Become Human (videojoc de Quantic Dream), Aquests dos jocs combinen la narrativa cinematogràfica amb la interactivitat dels videojocs.
+2.- Cinema interactiu i videojocs (Tenint al cap els llibres "interactius", on el lector creava la seva pròpia narrativa, la història/final del llibre la decidia el lector. En aquest cas, la hibridació serà referent a experiències com la que ofereix Netflix a la sèrie Blackmirror, amb "Bandersnatch", on l'espectador pot interactuar amb el capítol i decidir pel personatge). Podem dir que ens trobem envers una narrativa interactiva, on es barreja el concepte de cinema i el dels videojocs. Ja que a part de Bandersnatch de Netflix, trobem el joc de terror interactiu de PS, Until Dawn, o el Detroit: Become Human (videojoc de Quantic Dream), aquests dos jocs combinen la narrativa cinematogràfica amb la interactivitat dels videojocs.
 
 
 ## Re-descobrint la hibridació: Cas 1
@@ -29,13 +29,13 @@ El turisme sempre ha anat lligat a la visita dels espais o entorns geogràfics q
 
 ![VR al turisme](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/VRtourism1.png)
 
-La realitat virtual permet als usuaris realitzar visites virtuals a llocs emblemàtics i museus des de qualsevol lloc del món. Aquest tipus d'experiència immersiva pren una importància a nivell social, al permetre a persones que no poden viatjar per motius físics, econòmics o altres limitacions, el poder experimentar una visita virtual. La tecnologia VR i AR, avui en dia és una tecnologia accessible i les visites virtuals ens ofereixen una visió detallada i en 360 graus de llocs com la Tarraco romana, el Museu del Louvre, la Gran Muralla Xinesa o fins i tot el Museu de les Terres de l'Ebre a Amposta, que amb Google, ets pots passejar per les seves sales.
+La realitat virtual permet als usuaris fer visites virtuals a llocs emblemàtics i museus des de qualsevol lloc del món. Aquest tipus d'experiència immersiva pren una importància a nivell social, en permetre a persones que no poden viatjar per motius físics, econòmics o altres limitacions, el fet de poder experimentar una visita virtual. La tecnologia VR i AR, avui en dia és una tecnologia accessible i les visites virtuals ens ofereixen una visió detallada i en 360 graus de llocs com la Tarraco romana, el Museu del Louvre, la Gran Muralla Xinesa o fins i tot el Museu de les Terres de l'Ebre a Amposta, que amb Google, et pots passejar per les seves sales.
 
 Projectes com Google Arts & Culture han col·laborat amb museus de tot el món per oferir recorreguts virtuals de les seves col·leccions. Aquests recorreguts no només proporcionen una experiència visual, sinó que també inclouen informació detallada sobre les obres d'art i el material que s'exposa, millorant l'aprenentatge i l'accés cultural.
 
 ![VR al turisme](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/GoogleArts1.png)
 
-A més, algunes destinacions turístiques han creat experiències virtuals immersives que permeten als usuaris explorar llocs de difícil accés o que han canviat significativament amb el temps. Per exemple, a Catalunya tenim Tarraco360, un projecte que recull el treball científic realitzat pel grup d’investigació SETOPANT (URV/ICAC) i el converteix en un recorregut virtual perquè puguem visitar els monuments Patrimoni de la Humanitat de la ciutat de Tarragona en 3D. També podem explorar amb VR i RA, en un altre exemple, la ciutat antiga de Pompeia, permetent-nos als usuaris veure com era abans de l'erupció del Vesuvi (sobre Pompeia hi ha moltes experiències virtuals i de realitart augmentada a Pompeia mateix, augmentat l'experiència del turista, permetent veure com era abans la ciutat). Aquest tipus d'experiències turístiques i culurals, ens ofereixen una perspectiva històrica rica i una comprensió més profunda del patrimoni cultural.
+A més, algunes destinacions turístiques han creat experiències virtuals immersives que permeten als usuaris explorar llocs de difícil accés o que han canviat significativament amb el temps. Per exemple, a Catalunya tenim Tarraco360, un projecte que recull el treball científic fet pel grup d’investigació SETOPANT (URV/ICAC) i el converteix en un recorregut virtual perquè puguem visitar els monuments Patrimoni de la Humanitat de la ciutat de Tarragona en 3D. També podem explorar amb VR i RA, en un altre exemple, la ciutat antiga de Pompeia, permetent-nos als usuaris veure com era abans de l'erupció del Vesuvi (sobre Pompeia hi ha moltes experiències virtuals i de realitat augmentada a Pompeia mateix, augmentat l'experiència del turista, permetent veure com era abans la ciutat). Aquest tipus d'experiències turístiques i culturals, ens ofereixen una perspectiva històrica rica i una comprensió més profunda del patrimoni cultural.
 
 ![VR al turisme, Tarraco360](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/Tarraco360.png)
 
@@ -43,7 +43,10 @@ A més, algunes destinacions turístiques han creat experiències virtuals immer
 ## Re-descobrint la hibridació: Cas 2
 ### Cinema interactiu i videojocs
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En aquest cas, podem veure la hibridació entre el cinema interactiu i els videojocs, on han convergit per crear una nova forma de narrativa interactiva que combina elements cinematogràfics amb la interactivitat pròpia dels videojocs. Aquesta hibridació permet als espectadors poder influir en el desenvolupament de la història, oferint una experiència única i personalitzada, anant més enllà de la mera acció de veure una pel·lícula com fins ara, l'espectador passa de ser un simple observador, a formar part de la història, s'aconsegueix una narrativa viva.
+
+![Cinema interactiu](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/BM01.png)
+
 
 
 ### Referències i Bibliografia
