@@ -17,11 +17,10 @@ Fecha: 26/05/2024
 
 A continuació, he creat un assaig per la PAC3, amb els següents dos casos de Re-descobrint la hibridació:
 
-1.- Turisme i la Tecnologia immersiva (poder visitar virtualment llocs, museus... o experiències de RA als propis llocs turístics).
+**1.- Turisme i la Tecnologia immersiva** (poder visitar virtualment llocs, museus... o experiències de RA als propis llocs turístics).
 
-2.- Cinema interactiu i videojocs (Tenint al cap els llibres "interactius", on el lector creava la seva pròpia narrativa, la història/final del llibre la decidia el lector. En aquest cas, la hibridació serà referent a experiències com la que ofereix Netflix a la sèrie Blackmirror, amb "Bandersnatch", on l'espectador pot interactuar amb el capítol i decidir pel personatge). Podem dir que ens trobem envers una narrativa interactiva, on es barreja el concepte de cinema i el dels videojocs. Ja que a part de Bandersnatch de Netflix, trobem el joc de terror interactiu de PS, Until Dawn, o el Detroit: Become Human (videojoc de Quantic Dream), aquests dos jocs combinen la narrativa cinematogràfica amb la interactivitat dels videojocs.
+**2.- Cinema interactiu i videojocs** (Tenint al cap els llibres "interactius", on el lector creava la seva pròpia narrativa, la història/final del llibre la decidia el lector. En aquest cas, la hibridació serà referent a experiències com la que ofereix Netflix a la sèrie Blackmirror, amb "Bandersnatch", on l'espectador pot interactuar amb el capítol i decidir pel personatge). Podem dir que ens trobem envers una narrativa interactiva, on es barreja el concepte de cinema i el dels videojocs. Ja que a part de Bandersnatch de Netflix, trobem el joc de terror interactiu de PS, Until Dawn, o el Detroit: Become Human (videojoc de Quantic Dream), aquests dos jocs combinen la narrativa cinematogràfica amb la interactivitat dels videojocs.
 
- la hibridació del turisme amb la tecnologia immersiva representa una evolució significativa en la manera com les persones experimenten el món. Aquestes tecnologies no només fan que el turisme sigui més accessible i enriquidor, sinó que també ofereixen noves oportunitats per a la preservació i la sostenibilitat del patrimoni cultural. La realitat virtual i la realitat augmentada són eines poderoses que transformen el turisme, creant experiències immersives i educatives que connecten millor les persones amb la història i la cultura del món.
  
 ## Re-descobrint la hibridació: Cas 1
 ### El Turisme i la Tecnologia immersiva
