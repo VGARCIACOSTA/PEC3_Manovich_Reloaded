@@ -35,7 +35,7 @@ Projectes com Google Arts & Culture han col·laborat amb museus de tot el món p
 
 ![VR al turisme](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/GoogleArts1.png)
 
-A més, algunes destinacions turístiques han creat experiències virtuals immersives que permeten als usuaris explorar llocs de difícil accés o que han canviat significativament amb el temps. Per exemple, la ciutat antiga de Pompeia es pot explorar mitjançant VR, permetent als usuaris veure com era abans de l'erupció del Vesuvi. Aquest tipus d'experiències ofereixen una perspectiva històrica rica i una comprensió més profunda del patrimoni cultural..
+A més, algunes destinacions turístiques han creat experiències virtuals immersives que permeten als usuaris explorar llocs de difícil accés o que han canviat significativament amb el temps. Per exemple, a Catalunya tenim Tarraco360, un projecte que recull el treball científic realitzat pel grup d’investigació SETOPANT (URV/ICAC) i el converteix en un recorregut virtual perquè puguem visitar els monuments Patrimoni de la Humanitat de la ciutat de Tarragona en 3D. També podem explorar amb VR i RA, en un altre exemple, la ciutat antiga de Pompeia, permetent-nos als usuaris veure com era abans de l'erupció del Vesuvi (sobre Pompeia hi ha moltes experiències virtuals i de realitart augmentada a Pompeia mateix, augmentat l'experiència del turista, permetent veure com era abans la ciutat). Aquest tipus d'experiències turístiques i culurals, ens ofereixen una perspectiva històrica rica i una comprensió més profunda del patrimoni cultural.
 
 ![VR al turisme, Tarraco360](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/Tarraco360.png)
 
@@ -52,7 +52,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * VRtourism2.jpg (2024). Imatges amb llicència per a Valentí Garcia, **Envato Elements**. Certificat llicència (https://valentigarcia.com/uoc/cd/PAC3/license_certificate_47BVJ5HNE3.txt)
 * Black Mirror: Bandersnatch (NETFLIX), **Wikipedia**. [consultat: 23/05/2024]. (https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
 * Tarraco360.com **TARRACO 360** (https://www.tarraco360.com/)
-* 
+* Google Arts & Culture. **Google Arts and Culture** (https://artsandculture.google.com/)
+* Visita virtual Pompeia. **Pompeia 3D** (https://www.realista.io/visita-virtual-ciudad-pompeya/)
+* Pomepia VR/AR **Pompeia VR** (https://pompeii.refutur.com/en/)
 
 
 ----
