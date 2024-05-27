@@ -50,11 +50,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * VRtourism2.jpg (2024). Imatges amb llicència per a Valentí Garcia, **Envato Elements**. Certificat llicència (https://valentigarcia.com/uoc/cd/PAC3/license_certificate_47BVJ5HNE3.txt)
+* Tarraco360.com **TARRACO 360**.[consultat: 24/05/2024] (https://www.tarraco360.com/)
+* Google Arts & Culture. **Google Arts and Culture**.[consultat: 23/05/2024] (https://artsandculture.google.com/)
+* Visita virtual Pompeia. **Pompeia 3D**. [consultat: 22/05/2024] (https://www.realista.io/visita-virtual-ciudad-pompeya/)
+* Pomepia VR/AR **Pompeia VR**. [consultat: 27/05/2024] (https://pompeii.refutur.com/en/)
+* Black Mirror: Bandersnatch (NETFLIX), **NETFLIX** [consultat: 23/05/2024] (https://www.netflix.com/es/title/80988062)
 * Black Mirror: Bandersnatch (NETFLIX), **Wikipedia**. [consultat: 23/05/2024]. (https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
-* Tarraco360.com **TARRACO 360** (https://www.tarraco360.com/)
-* Google Arts & Culture. **Google Arts and Culture** (https://artsandculture.google.com/)
-* Visita virtual Pompeia. **Pompeia 3D** (https://www.realista.io/visita-virtual-ciudad-pompeya/)
-* Pomepia VR/AR **Pompeia VR** (https://pompeii.refutur.com/en/)
+* 
 
 
 ----
