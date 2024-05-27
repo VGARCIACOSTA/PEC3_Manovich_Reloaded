@@ -46,7 +46,7 @@ Podem afirmar, que la hibridació del turisme amb la tecnologia immersiva,  VR/A
 ## Re-descobrint la hibridació: Cas 2
 ### Cinema interactiu i videojocs
 
-En aquest cas, podem veure la hibridació entre el cinema interactiu i els videojocs, on han convergit per crear una nova forma de narrativa interactiva que combina elements cinematogràfics amb la interactivitat pròpia dels videojocs. Aquesta hibridació permet als espectadors poder influir en el desenvolupament de la història, oferint una experiència única i personalitzada, anant més enllà de la mera acció de veure una pel·lícula com fins ara, l'espectador passa de ser un simple observador, a formar part de la història, s'aconsegueix una narrativa viva.
+En aquest cas, podem veure la hibridació entre el cinema interactiu i els videojocs, on connecten per crear una nova forma de narrativa interactiva que combina elements cinematogràfics amb la interactivitat pròpia dels videojocs. Aquesta hibridació permet a l'espectador influir en el desenvolupament de la història, oferint una experiència única i personalitzada, anant més enllà de la mera acció de veure una pel·lícula com fins ara, l'espectador passa de ser un simple observador, a formar part de la història, s'aconsegueix una narrativa viva.
 
 ![Cinema interactiu](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/BM01.png)
 
