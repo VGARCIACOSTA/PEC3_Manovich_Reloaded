@@ -33,6 +33,8 @@ La realitat virtual permet als usuaris realitzar visites virtuals a llocs emblem
 
 Projectes com Google Arts & Culture han col·laborat amb museus de tot el món per oferir recorreguts virtuals de les seves col·leccions. Aquests recorreguts no només proporcionen una experiència visual, sinó que també inclouen informació detallada sobre les obres d'art i el material que s'exposa, millorant l'aprenentatge i l'accés cultural.
 
+![VR al turisme](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/GoogleArts1.png)
+
 A més, algunes destinacions turístiques han creat experiències virtuals immersives que permeten als usuaris explorar llocs de difícil accés o que han canviat significativament amb el temps. Per exemple, la ciutat antiga de Pompeia es pot explorar mitjançant VR, permetent als usuaris veure com era abans de l'erupció del Vesuvi. Aquest tipus d'experiències ofereixen una perspectiva històrica rica i una comprensió més profunda del patrimoni cultural..
 
 ![VR al turisme, Tarraco360](https://github.com/VGARCIACOSTA/PEC3_Manovich_Reloaded/blob/main/imatges/Tarraco360.png)
